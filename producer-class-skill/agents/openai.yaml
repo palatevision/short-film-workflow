@@ -1,0 +1,6 @@
+interface:
+  display_name: "制作人班skill"
+  short_description: "联用故事、镜头语言、固定资产提示词、混制和声音，交付可执行的影视方案"
+  default_prompt: "用 $producer-class-skill 根据我的创作意图选择具体摄影与叙事方法，并衔接当前项目需要的影视Skill。"
+policy:
+  allow_implicit_invocation: true
