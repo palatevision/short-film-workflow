@@ -1,0 +1,32 @@
+{
+  "review_version": "V2",
+  "main_skill_version": "0.11.2",
+  "skill_count": 15,
+  "skill_structure_validated": [
+    "character-location-prop-bible",
+    "model-adaptation",
+    "producer-class-skill",
+    "prompt-iteration-and-diagnostics",
+    "screenplay-and-scene-writing",
+    "short-drama",
+    "short-drama-assets",
+    "short-drama-edit",
+    "short-drama-image-prompts",
+    "short-drama-review",
+    "short-drama-storyboard",
+    "short-drama-video-prompts",
+    "short-drama-write",
+    "short-film-development",
+    "style-cinematography-director"
+  ],
+  "bundle_relative_file_links_checked": 377,
+  "storyboard_module_files_verified": 15,
+  "third_party_files_byte_identical_to_v1": 242,
+  "third_party_license_count": 14,
+  "portable_redactions_preserved_from_v1": [
+    "skills/producer-class-skill/references/prompt-language.md"
+  ],
+  "verified_scope": "Unpacked folder and isolated ZIP extraction: hashes, file paths, and storyboard resources",
+  "recipient_host_installation_verified": false,
+  "media_generation_or_review": false
+}
